@@ -171,6 +171,7 @@
 				TargetAttributes = {
 					14CBA2AD1DAC3AAB003A33FD = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 7NBTE6SY4Z;
 						ProvisioningStyle = Automatic;
 					};
 					14CBA2C11DAC3AAC003A33FD = {
@@ -367,6 +368,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7NBTE6SY4Z;
 				INFOPLIST_FILE = "AC3.2-InstaCats-1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nyc.AccessCode.AC3-2-InstaCats-1";
@@ -380,6 +382,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7NBTE6SY4Z;
 				INFOPLIST_FILE = "AC3.2-InstaCats-1/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "nyc.AccessCode.AC3-2-InstaCats-1";
